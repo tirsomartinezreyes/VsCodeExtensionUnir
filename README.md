@@ -5,3 +5,5 @@ Se requiere el uso de los paquetes yo, generator-code y typescript.
 ``` js
 npm install -g yo generator-code typescript.
 ```
+
+La extensión será compatible con VSCode >1.62

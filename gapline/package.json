@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:gapline.helloWorld"
+		"onCommand:extension.gapline"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "gapline.helloWorld",
-				"title": "Hello World"
+				"command": "extension.gapline",
+				"title": "Intercalar líneas"
 			}
 		]
 	},
